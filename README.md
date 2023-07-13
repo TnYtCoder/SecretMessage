@@ -15,6 +15,13 @@ Hide Your `Secrets` In Numbers. 🥱
 
 Safe Until It Gets Into The Hands Of A Hacker. 😈
 
+Topics Covered 📑 : 
+
+[![Installation - Termux](https://img.shields.io/badge/Installation-Termux-yellogreen)](https://github.com/TnYtCoder/SecretMessage#installation-termux)
+[![Video - Tutorial ](https://img.shields.io/badge/Video-Tutorial_-orange)](https://github.com/TnYtCoder/SecretMessage#video-tutorial)
+[![encode.py - decode.py](https://img.shields.io/badge/encode.py-decode.py-blue)](https://github.com/TnYtCoder/SecretMessage/edit/main/README.md#encodepy--decodepy)
+
+
 Let's Install 😋
 
 ## Installation (Termux)
@@ -31,7 +38,7 @@ pkg install python-pip
 
 `After Installing` These Basic Requirements Move To Next Step 
 
-That Is To `Clone This Repository` To Your And `Installing The Other Requirements`
+`Clone This Repository` In Your Termux And `Install The Other Requirements`
 ```
 git clone https://github.com/TnYtCoder/SecretMessage
 cd SecretMessage
